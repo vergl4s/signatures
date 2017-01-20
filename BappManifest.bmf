@@ -6,5 +6,5 @@ SerialVersion: 0
 MinPlatformVersion: 0
 ProOnly: False
 Author: Luis Felipe Teixeira
-ShortDescription: Perform hash length extension attacks on weak signature mechanisms
+ShortDescription: Performs hash length extension attacks on weak signature mechanisms.
 EntryPoint: signatures.py
