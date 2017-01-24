@@ -2,7 +2,7 @@ Uuid: f156669cae8d4c10a3cd9d0b5270bcf6
 ExtensionType: 2
 Name: Length Extension Attacks
 ScreenVersion: 0.0.1
-SerialVersion: 0
+SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: False
 Author: Luis Felipe Teixeira
