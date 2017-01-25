@@ -16,7 +16,7 @@ class BurpExtender(IBurpExtender, ITab):
 
     def registerExtenderCallbacks(self, callbacks):
 
-        self.name = 'Signatures'
+        self.name = 'Length Extension Attacks'
         self._callbacks = callbacks
         self._helpers = callbacks.getHelpers()
         callbacks.setExtensionName(self.name)
